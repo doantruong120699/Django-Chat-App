@@ -54,4 +54,4 @@ static/
 media
 /*/migrations/
 /*/__pycache__/
-db.sqlite3
+*.sqlite3
